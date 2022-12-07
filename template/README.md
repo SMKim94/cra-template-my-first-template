@@ -1,7 +1,5 @@
 # cra-template-my-first-template
 
-## 
-
 ## How to use
 로컬 개발 시스템에 **Node 14.15.5** 이상 버전이 있어야 합니다. <br />
 이 템플릿은 **Node 14.15.5** 버전에서 개발 중입니다.
