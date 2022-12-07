@@ -5,7 +5,7 @@
 이 템플릿은 **Node 14.15.5** 버전에서 개발 중입니다.
 ```
 git clone https://github.com/SMKim94/cra-template-my-first-template
-npx create-react-app my-app --template cra-template-my-first-template
+npx create-react-app my-app --template file:cra-template-my-first-template
 cd my-app
 npm start
 ```
